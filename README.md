@@ -1,2 +1,2 @@
-# architecture
+# Architecture
 Enterprise Architecture
